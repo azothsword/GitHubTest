@@ -23,10 +23,6 @@ namespace GitHubTest
         public MainWindow()
         {
             InitializeComponent();
-            //Test Change
-            int a = 0;
-            //Test Change Again~!!!
-	    int b = 0;
         }
     }
 }
